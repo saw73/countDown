@@ -1,6 +1,6 @@
 # countDown</br >
 a countdown time prgm for linux that can be used for obs to start a countdown timer</br >
-usage jus use it like this </br >
+usage just use it like this </br >
 $>./coundown hours minutes seconds</br >
 example :</br >
 $>./countdown 1 30 10</br >
