@@ -4,3 +4,8 @@ usage jus use it like this
 $>./coundown hours minutes seconds
 example :
 $>./countdown 1 30 10
+![Alt text]( countDown/Screenshot from 2018-09-06 16-47-17.png?raw=true "image1")
+![Alt text]( countDown/Screenshot from 2018-09-06 16-47-32.png?raw=true "image2")
+![Alt text]( countDown/Screenshot from 2018-09-06 16-47-39.png?raw=true "image3")
+![Alt text]( countDown/Screenshot from 2018-09-06 16-47-55.png?raw=true "image4")
+![Alt text]( countDown/Screenshot from 2018-09-06 16-48-03.png?raw=true "image5")
